@@ -7,5 +7,7 @@ Binary trees are hierarchical structures composed of nodes, each having at most 
 ## Features
 1. Introduction to basic binary tree concepts
 2. Implementation of binary tree data structure
-3. Traversal algorithms (in-order, pre-order, post-order)
-4. Binary tree applications, such as expression trees and sorting
+3. Examples of binary search trees (BST)
+4. Traversal algorithms (in-order, pre-order, post-order)
+5. Balanced binary trees (e.g., AVL trees)
+6. Binary tree applications, such as expression trees and sorting
